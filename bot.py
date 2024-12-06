@@ -28,19 +28,17 @@ class Agent301:
 
     def welcome(self):
         banner = f"""{Fore.RED}
-  .oooooo.          .o.       ooooo      ooo   .oooooo.     .oooooo..o ooooooooooooo oooooooooooo ooooooooo.   
- d8P'  `Y8b        .888.      `888b.     `8'  d8P'  `Y8b   d8P'    `Y8 8'   888   `8 `888'     `8 `888   `Y88. 
-888               .8"888.      8 `88b.    8  888           Y88bo.           888       888          888   .d88' 
-888              .8' `888.     8   `88b.  8  888            `"Y8888o.       888       888oooo8     888ooo88P'  
-888     ooooo   .88ooo8888.    8     `88b.8  888     ooooo      `"Y88b      888       888    "     888`88b.    
-`88.    .88'   .8'     `888.   8       `888  `88.    .88'  oo     .d8P      888       888       o  888  `88b.  
- `Y8bood8P'   o88o     o8888o o8o        `8   `Y8bood8P'   8""88888P'      o888o     o888ooooood8 o888o  o888o 
-                                                                  
-                                            """
+   ____    _    _   _  ____ ____ _____ _____ ____  
+  / ___|  / \  | \ | |/ ___/ ___|_   _| ____|  _ \ 
+ | |  _  / _ \ |  \| | |  _\___ \ | | |  _| | |_) |
+ | |_| |/ ___ \| |\  | |_| |___) || | | |___|  _ < 
+  \____/_/   \_\_| \_|\____|____/ |_| |_____|_| \_\
+                                                   
+                    """
         print(Fore.GREEN + Style.BRIGHT + banner + Style.RESET_ALL)
         print(Fore.GREEN + f" Agent301 Auto Bot {Fore.LIGHTRED_EX}By {Fore.YELLOW}Shortcut For Life ")
         print(Fore.MAGENTA  + f" Before you start, run {Fore.LIGHTRED_EX}'git pull'{Style.RESET_ALL} to update the bot\n")
-        print(f"{Fore.WHITE}~" * 60)
+        print(f"{Fore.WHITE}*" * 50)
 
     def format_seconds(self, seconds):
         hours, remainder = divmod(seconds, 3600)
