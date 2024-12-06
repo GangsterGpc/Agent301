@@ -1,4 +1,4 @@
-# Agent 301 Auto Bot Gangster@Shortcut For Life
+# Agent 301 Auto Bot ~ Gangster@Shortcut For Life
 
 ## Features
 
