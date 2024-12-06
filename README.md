@@ -90,7 +90,7 @@ Get your telegram query_id / user_id with the following steps:
    ```
 
 
-## Support To Bot
+## Support To Me
 If you would like to support the development of this project, you can make a donation using the following addresses:
 
 -  SOL : 
