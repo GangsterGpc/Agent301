@@ -1,1 +1,1 @@
-query_id=AAHeSR4TAwAAAN5JHhMrNccP&user=%7B%22id%22%3A6763203038%2C%22first_name%22%3A%22Gangster%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22gangster_gpc%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%2C%22photo_url%22%3A%22https%3A%5C%2F%5C%2Ft.me%5C%2Fi%5C%2Fuserpic%5C%2F320%5C%2FSg85__jMZy7rpyYARR4ktOrq5yuhpQKgTkV2ht5q0eyc6aTC9lDe5CApzXAyEcX_.svg%22%7D&auth_date=1733009345&signature=kUl2cs-SQE9f4-f_CspPfmspjimE8McuiIraysEKJ5EOT1rMaFy5NbVoHS4_Ws6tscLs5raZkBOf-5b92Ke3AQ&hash=890445c7a31410c453d35efde8db7e7f09252d348f86064e51664975420887c9
+
