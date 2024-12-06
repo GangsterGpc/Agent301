@@ -54,8 +54,13 @@ Create a config.json file in the root directory with the following structure:
 
 ## Add Proxy List
 
-Add your proxy list in `proxies.txt` and proxy format is like example below :
+Add your proxy list in `proxies.txt`:
 ```bash
+nano proxies.txt
+```
+The proxy format is like example below:
+```bash
+
 http://host:port
 http://user:pass@host:port
 ```
